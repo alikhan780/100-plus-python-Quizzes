@@ -1,6 +1,6 @@
 # 🐍 Python Quiz Notebook – CodeWithHarry Ultimate Python Course
 
-A concise, chapter-wise Jupyter Notebook of 100+ Python quizzes solved from the CodeWithHarry python course — ranging from beginner to advanced level.
+A concise, chapter-wise Jupyter Notebook of 100+ solved Python quizzes of [CodeWithHarry Ultimate Python Course](https://youtu.be/UrsmFxEIp5k?si=bK3QrYU8OkPRgFGP) — ranging from beginner to advanced level.
 
 ## 🚀 Features
 - 📚 100+ questions with clean, explained solutions  
